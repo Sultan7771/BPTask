@@ -4511,24 +4511,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sultopian\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\aisha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SultopianSoftware\\BP\\API\\StationAPI\\StationAPI\\StationAPI.csproj",
+      "projectUniqueName": "C:\\Users\\aisha\\Documents\\RorosFiles\\Software\\BP\\API\\API\\StationAPI\\StationAPI\\StationAPI.csproj",
       "projectName": "StationAPI",
-      "projectPath": "F:\\SultopianSoftware\\BP\\API\\StationAPI\\StationAPI\\StationAPI.csproj",
-      "packagesPath": "C:\\Users\\Sultopian\\.nuget\\packages\\",
-      "outputPath": "F:\\SultopianSoftware\\BP\\API\\StationAPI\\StationAPI\\obj\\",
+      "projectPath": "C:\\Users\\aisha\\Documents\\RorosFiles\\Software\\BP\\API\\API\\StationAPI\\StationAPI\\StationAPI.csproj",
+      "packagesPath": "C:\\Users\\aisha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aisha\\Documents\\RorosFiles\\Software\\BP\\API\\API\\StationAPI\\StationAPI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Sultopian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\aisha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4615,7 +4610,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
